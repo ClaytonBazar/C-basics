@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\bin\Debug\net8.0-windows\GestaoEstudantes.exe
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\bin\Debug\net8.0-windows\GestaoEstudantes.deps.json
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\bin\Debug\net8.0-windows\GestaoEstudantes.runtimeconfig.json
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\bin\Debug\net8.0-windows\GestaoEstudantes.dll
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\bin\Debug\net8.0-windows\GestaoEstudantes.pdb
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\obj\Debug\net8.0-windows\GestaoEstudantes.Form1.resources
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\obj\Debug\net8.0-windows\GestaoEstudantes.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\obj\Debug\net8.0-windows\GestaoEstudantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\obj\Debug\net8.0-windows\GestaoEstudantes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\obj\Debug\net8.0-windows\GestaoEstudantes.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\obj\Debug\net8.0-windows\GestaoEstudantes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\obj\Debug\net8.0-windows\GestaoEstudantes.dll
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\obj\Debug\net8.0-windows\refint\GestaoEstudantes.dll
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\obj\Debug\net8.0-windows\GestaoEstudantes.pdb
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\obj\Debug\net8.0-windows\GestaoEstudantes.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\GestaoEstudantes\GestaoEstudantes\obj\Debug\net8.0-windows\ref\GestaoEstudantes.dll

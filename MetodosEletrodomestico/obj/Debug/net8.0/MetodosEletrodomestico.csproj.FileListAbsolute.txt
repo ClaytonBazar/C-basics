@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\MetodosEletrodomestico\bin\Debug\net8.0\MetodosEletrodomestico.exe
+C:\Users\user\Desktop\C#\MetodosEletrodomestico\bin\Debug\net8.0\MetodosEletrodomestico.deps.json
+C:\Users\user\Desktop\C#\MetodosEletrodomestico\bin\Debug\net8.0\MetodosEletrodomestico.runtimeconfig.json
+C:\Users\user\Desktop\C#\MetodosEletrodomestico\bin\Debug\net8.0\MetodosEletrodomestico.dll
+C:\Users\user\Desktop\C#\MetodosEletrodomestico\bin\Debug\net8.0\MetodosEletrodomestico.pdb
+C:\Users\user\Desktop\C#\MetodosEletrodomestico\obj\Debug\net8.0\MetodosEletrodomestico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\MetodosEletrodomestico\obj\Debug\net8.0\MetodosEletrodomestico.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\MetodosEletrodomestico\obj\Debug\net8.0\MetodosEletrodomestico.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\MetodosEletrodomestico\obj\Debug\net8.0\MetodosEletrodomestico.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\MetodosEletrodomestico\obj\Debug\net8.0\MetodosEletrodomestico.dll
+C:\Users\user\Desktop\C#\MetodosEletrodomestico\obj\Debug\net8.0\refint\MetodosEletrodomestico.dll
+C:\Users\user\Desktop\C#\MetodosEletrodomestico\obj\Debug\net8.0\MetodosEletrodomestico.pdb
+C:\Users\user\Desktop\C#\MetodosEletrodomestico\obj\Debug\net8.0\MetodosEletrodomestico.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\MetodosEletrodomestico\obj\Debug\net8.0\ref\MetodosEletrodomestico.dll
