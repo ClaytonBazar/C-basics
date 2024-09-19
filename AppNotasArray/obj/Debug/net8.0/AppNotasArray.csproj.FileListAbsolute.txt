@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\AppNotasArray\bin\Debug\net8.0\AppNotasArray.exe
+C:\Users\user\Desktop\C#\AppNotasArray\bin\Debug\net8.0\AppNotasArray.deps.json
+C:\Users\user\Desktop\C#\AppNotasArray\bin\Debug\net8.0\AppNotasArray.runtimeconfig.json
+C:\Users\user\Desktop\C#\AppNotasArray\bin\Debug\net8.0\AppNotasArray.dll
+C:\Users\user\Desktop\C#\AppNotasArray\bin\Debug\net8.0\AppNotasArray.pdb
+C:\Users\user\Desktop\C#\AppNotasArray\obj\Debug\net8.0\AppNotasArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\AppNotasArray\obj\Debug\net8.0\AppNotasArray.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\AppNotasArray\obj\Debug\net8.0\AppNotasArray.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\AppNotasArray\obj\Debug\net8.0\AppNotasArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\AppNotasArray\obj\Debug\net8.0\AppNotasArray.dll
+C:\Users\user\Desktop\C#\AppNotasArray\obj\Debug\net8.0\refint\AppNotasArray.dll
+C:\Users\user\Desktop\C#\AppNotasArray\obj\Debug\net8.0\AppNotasArray.pdb
+C:\Users\user\Desktop\C#\AppNotasArray\obj\Debug\net8.0\AppNotasArray.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\AppNotasArray\obj\Debug\net8.0\ref\AppNotasArray.dll

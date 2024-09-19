@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\EstudanteNotas\bin\Debug\net8.0\EstudanteNotas.exe
+C:\Users\user\Desktop\C#\EstudanteNotas\bin\Debug\net8.0\EstudanteNotas.deps.json
+C:\Users\user\Desktop\C#\EstudanteNotas\bin\Debug\net8.0\EstudanteNotas.runtimeconfig.json
+C:\Users\user\Desktop\C#\EstudanteNotas\bin\Debug\net8.0\EstudanteNotas.dll
+C:\Users\user\Desktop\C#\EstudanteNotas\bin\Debug\net8.0\EstudanteNotas.pdb
+C:\Users\user\Desktop\C#\EstudanteNotas\obj\Debug\net8.0\EstudanteNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\EstudanteNotas\obj\Debug\net8.0\EstudanteNotas.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\EstudanteNotas\obj\Debug\net8.0\EstudanteNotas.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\EstudanteNotas\obj\Debug\net8.0\EstudanteNotas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\EstudanteNotas\obj\Debug\net8.0\EstudanteNotas.dll
+C:\Users\user\Desktop\C#\EstudanteNotas\obj\Debug\net8.0\refint\EstudanteNotas.dll
+C:\Users\user\Desktop\C#\EstudanteNotas\obj\Debug\net8.0\EstudanteNotas.pdb
+C:\Users\user\Desktop\C#\EstudanteNotas\obj\Debug\net8.0\EstudanteNotas.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\EstudanteNotas\obj\Debug\net8.0\ref\EstudanteNotas.dll

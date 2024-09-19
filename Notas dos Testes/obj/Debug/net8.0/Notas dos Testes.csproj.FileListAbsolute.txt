@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\Notas dos Testes\bin\Debug\net8.0\Notas dos Testes.exe
+C:\Users\user\Desktop\C#\Notas dos Testes\bin\Debug\net8.0\Notas dos Testes.deps.json
+C:\Users\user\Desktop\C#\Notas dos Testes\bin\Debug\net8.0\Notas dos Testes.runtimeconfig.json
+C:\Users\user\Desktop\C#\Notas dos Testes\bin\Debug\net8.0\Notas dos Testes.dll
+C:\Users\user\Desktop\C#\Notas dos Testes\bin\Debug\net8.0\Notas dos Testes.pdb
+C:\Users\user\Desktop\C#\Notas dos Testes\obj\Debug\net8.0\Notas dos Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Notas dos Testes\obj\Debug\net8.0\Notas dos Testes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Notas dos Testes\obj\Debug\net8.0\Notas dos Testes.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Notas dos Testes\obj\Debug\net8.0\Notas dos Testes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Notas dos Testes\obj\Debug\net8.0\Notas dos Testes.dll
+C:\Users\user\Desktop\C#\Notas dos Testes\obj\Debug\net8.0\refint\Notas dos Testes.dll
+C:\Users\user\Desktop\C#\Notas dos Testes\obj\Debug\net8.0\Notas dos Testes.pdb
+C:\Users\user\Desktop\C#\Notas dos Testes\obj\Debug\net8.0\Notas dos Testes.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\Notas dos Testes\obj\Debug\net8.0\ref\Notas dos Testes.dll
