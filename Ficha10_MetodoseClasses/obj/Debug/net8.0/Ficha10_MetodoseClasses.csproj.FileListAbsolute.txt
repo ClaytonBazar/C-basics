@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\Ficha10_MetodoseClasses\bin\Debug\net8.0\Ficha10_MetodoseClasses.exe
+C:\Users\user\Desktop\C#\Ficha10_MetodoseClasses\bin\Debug\net8.0\Ficha10_MetodoseClasses.deps.json
+C:\Users\user\Desktop\C#\Ficha10_MetodoseClasses\bin\Debug\net8.0\Ficha10_MetodoseClasses.runtimeconfig.json
+C:\Users\user\Desktop\C#\Ficha10_MetodoseClasses\bin\Debug\net8.0\Ficha10_MetodoseClasses.dll
+C:\Users\user\Desktop\C#\Ficha10_MetodoseClasses\bin\Debug\net8.0\Ficha10_MetodoseClasses.pdb
+C:\Users\user\Desktop\C#\Ficha10_MetodoseClasses\obj\Debug\net8.0\Ficha10_MetodoseClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Ficha10_MetodoseClasses\obj\Debug\net8.0\Ficha10_MetodoseClasses.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Ficha10_MetodoseClasses\obj\Debug\net8.0\Ficha10_MetodoseClasses.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Ficha10_MetodoseClasses\obj\Debug\net8.0\Ficha10_MetodoseClasses.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Ficha10_MetodoseClasses\obj\Debug\net8.0\Ficha10_MetodoseClasses.dll
+C:\Users\user\Desktop\C#\Ficha10_MetodoseClasses\obj\Debug\net8.0\refint\Ficha10_MetodoseClasses.dll
+C:\Users\user\Desktop\C#\Ficha10_MetodoseClasses\obj\Debug\net8.0\Ficha10_MetodoseClasses.pdb
+C:\Users\user\Desktop\C#\Ficha10_MetodoseClasses\obj\Debug\net8.0\Ficha10_MetodoseClasses.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\Ficha10_MetodoseClasses\obj\Debug\net8.0\ref\Ficha10_MetodoseClasses.dll
