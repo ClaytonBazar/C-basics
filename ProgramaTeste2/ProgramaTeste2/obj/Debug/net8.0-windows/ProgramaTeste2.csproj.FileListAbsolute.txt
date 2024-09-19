@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\bin\Debug\net8.0-windows\ProgramaTeste2.exe
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\bin\Debug\net8.0-windows\ProgramaTeste2.deps.json
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\bin\Debug\net8.0-windows\ProgramaTeste2.runtimeconfig.json
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\bin\Debug\net8.0-windows\ProgramaTeste2.dll
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\bin\Debug\net8.0-windows\ProgramaTeste2.pdb
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\obj\Debug\net8.0-windows\ProgramaTeste2.Form1.resources
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\obj\Debug\net8.0-windows\ProgramaTeste2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\obj\Debug\net8.0-windows\ProgramaTeste2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\obj\Debug\net8.0-windows\ProgramaTeste2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\obj\Debug\net8.0-windows\ProgramaTeste2.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\obj\Debug\net8.0-windows\ProgramaTeste2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\obj\Debug\net8.0-windows\ProgramaTeste2.dll
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\obj\Debug\net8.0-windows\refint\ProgramaTeste2.dll
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\obj\Debug\net8.0-windows\ProgramaTeste2.pdb
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\obj\Debug\net8.0-windows\ProgramaTeste2.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\ProgramaTeste2\ProgramaTeste2\obj\Debug\net8.0-windows\ref\ProgramaTeste2.dll
